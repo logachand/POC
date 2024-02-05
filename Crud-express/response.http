@@ -1,0 +1,10 @@
+// GET all the Notes
+
+# GET http://localhost:3000/notes
+
+// GET specific Note ID
+
+GET http://localhost:3000/notes/1
+
+
+
